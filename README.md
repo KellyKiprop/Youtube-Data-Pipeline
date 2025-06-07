@@ -35,4 +35,5 @@ This project implements a robust **end-to-end data pipeline** that automates the
 Here's a sample of the YouTube Podcast Analytics Dashboard visualized in Grafana:
 
 ![Grafana Dashboard](dash1.png)
+![Grafana Dashboard](dash2.png)
 
