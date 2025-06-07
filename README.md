@@ -2,7 +2,7 @@
 
 ## 📌 Project Description
 
-This project implements a robust **end-to-end data pipeline** that automates the extraction, transformation, and visualization of data from a curated list of **YouTube podcast videos** (e.g., Mic Cheque Podcast). The primary goal is to track video performance over time and generate insights like engagement rate, view trends, and performance classification using scheduled tasks and modern data engineering tools.
+This project implements a robust **end-to-end data pipeline** that automates the extraction, transformation, and visualization of data from a curated list of **YouTube podcast videos** ie Mic Cheque Podcast. The primary goal is to track video performance over time and generate insights like engagement rate, view trends, and performance classification using scheduled tasks and modern data engineering tools.
 
 ---
 
